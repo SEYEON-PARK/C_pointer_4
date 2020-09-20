@@ -4,7 +4,7 @@ int main(void)
 {
 	char name[10];
 
-	printf("ÀÌ¸§À» ÀÔ·ÂÇÏ½Ã¿À. ");
+	printf("ì´ë¦„ì„ ì…ë ¥í•˜ì‹œì˜¤. ");
 	scanf_s("%s", name, sizeof(name));
 
 	big(name);
