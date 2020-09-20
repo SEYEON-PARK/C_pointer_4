@@ -4,5 +4,5 @@ void big(char* up)
 {
 	up[0] = toupper(up[0]);
 
-	printf("´ç½ÅÀÇ ÀÌ¸§Àº %sÀÔ´Ï´Ù.\n", up);
+	printf("ë‹¹ì‹ ì˜ ì´ë¦„ì€ %sì…ë‹ˆë‹¤.\n", up);
 }
